@@ -1,7 +1,7 @@
 {
   "name": "WhatsGram",
-  "description": "Yet chat inicial another for WhatsApp.",
-  "keywords": ["WhatsApp", "Telegram", "inicial", "NodeJs"],
+  "description": "Yet chat cositas another for WhatsApp.",
+  "keywords": ["WhatsApp", "Telegram", "NodeJs"],
   "repository": "https://github.com/WhatsGram/WhatsGram",
   "website": "https://t.me/AffanTheBest",
   "scripts": {
